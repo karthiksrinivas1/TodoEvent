@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/karthiksrinivas1/TodoEvent/issues"
   },
-  "homepage": "https://github.com/karthiksrinivas1/TodoEvent#readme"
+  "homepage": "https://github.com/karthiksrinivas1/TodoEvent#readme",
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.25.5"
+  }
 }
