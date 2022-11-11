@@ -1,0 +1,19 @@
+{
+  "name": "todoevent",
+  "version": "1.0.0",
+  "description": "Event service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthiksrinivas1/TodoEvent.git"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthiksrinivas1/TodoEvent/issues"
+  },
+  "homepage": "https://github.com/karthiksrinivas1/TodoEvent#readme"
+}
